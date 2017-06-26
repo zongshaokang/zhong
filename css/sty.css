@@ -1,0 +1,30 @@
+.navbar .pull-right{
+	line-height: 60px;
+	background: ;
+}
+
+.navbar .pull-right:hover{
+	line-height: 60px;
+}
+
+
+.nav-pills>li {
+    background: #f8f8f8;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #cc0000;
+}
+.main ul li{
+	padding-left: 15px;
+	padding-top: 17px;
+}
+.main ul li a{
+	color: #666666;
+}
+.main p{
+	line-height: 30px;
+}
